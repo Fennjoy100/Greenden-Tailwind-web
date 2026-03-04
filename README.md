@@ -3,7 +3,9 @@ A responsive plant store website built using HTML5 and Tailwind CSS.
 This project focuses on clean UI design, reusable components, and mobile-first responsive layout without using JavaScript. The purpose of this project is to demonstrate strong fundamentals in modern UI development using Tailwind utility classes.
 
 🚀 Live Demo
+
 📌 Project Overview
+
 Greenden is a static front-end project that showcases:
 
 • Hero landing section with call-to-action
