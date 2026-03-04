@@ -26,37 +26,45 @@ This project is built purely with HTML and Tailwind CSS to demonstrate strong la
 • Google Fonts
 
 ✨ Features
+
 🔹 Navigation Bar
+
 • Clean brand logo
 • Navigation links (Home, About, Contact)
 • Responsive alignment
 
 🔹 Hero Section
+
 • Eye-catching headline
 • Call-to-action button
 • Centered responsive layout
 
 🔹 Featured Plants
+
 • Grid-based product cards
 • Product name and pricing
 • Hover lift and shadow effect
 • Proper image handling
 
 🔹 Customer Reviews
+
 • Testimonial cards
 • Clean typography
 • Responsive stacking layout
 
 🔹 Contact Section
+
 • Styled contact form
 • Tailwind input field design
 • Mobile-friendly structure
 
 🔹 Footer
+
 • Minimal and clean footer
 • Demo project note
 
 📱 Responsive Design
+
 • Mobile-first development
 • Tablet optimization
 • Desktop alignment
@@ -64,6 +72,7 @@ This project is built purely with HTML and Tailwind CSS to demonstrate strong la
 • Sections adapt smoothly across screen sizes
 
 🧠 Development Process
+
 Created semantic HTML structure.
 Designed reusable UI sections using Tailwind classes.
 Implemented layout using Flexbox and Grid utilities.
@@ -71,6 +80,7 @@ Added hover animations for better interactivity.
 Applied responsive breakpoints for mobile optimization.
 
 📂 Project Structure
+
 Greenden-Tailwind-Web/
 │
 ├── index.html
@@ -84,6 +94,7 @@ Greenden-Tailwind-Web/
 └── README.md
 
 📚 What I Learned
+
 1) Layout Structuring
 Improved my ability to organize sections clearly for scalability and clean UI design.
 
@@ -103,6 +114,7 @@ Used consistent spacing, typography, and shadows to maintain a clean design syst
 Added smooth hover animations to improve visual feedback and user experience.
 
 🚀 How It Can Be Improved
+
 • Add JavaScript cart functionality
 • Implement product filtering
 • Add interactive animations
